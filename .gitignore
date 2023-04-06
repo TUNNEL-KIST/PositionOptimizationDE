@@ -1,0 +1,47 @@
+
+
+
+# ignore folders 
+SupVideos*/
+ETC/
+*/__pychche__
+Figure10 Thalamus/sub001
+Figure8 AI vs Measure (Sup3)/CT/CT skull phantom/
+
+
+.ipynb_checkpoints/
+.venv/
+
+#
+*.exe
+*.out
+*.hdf5
+*.gz
+*.dll
+*.exe
+*.ttf
+*.mrml
+*.png
+*.acsv
+*.nrrd
+*.stl
+*.h5
+*.vp
+*.json
+*.nii
+*.vtk
+*.csv
+*.npy
+*.zip
+*.mp4
+*.mlt
+*.mha
+*.tsv
+*.mgz
+*.avi
+*.pyc
+*.idea
+*.cfg
+*.surf
+*.annot
+*.label
